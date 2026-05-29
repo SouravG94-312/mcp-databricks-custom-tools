@@ -1,0 +1,5 @@
+[project]
+name = "mcp-aftermarket-custom-tools"
+version = "0.1.0"
+description = "Custom MCP server for Automotive Aftermarket Agent Cluster PoC"
+requires-python = ">=3.10"
