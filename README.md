@@ -34,6 +34,7 @@ Databricks SQL Warehouse
         v
 Unity Catalog Views / Delta Tables
 ```
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a170e0c6-38b4-40da-b005-f956cd311e09" />
 
 ### Current hosting mode
 
@@ -122,6 +123,9 @@ Primary Databricks view:
 main.aftermarket_agent_poc.vw_warranty_claim_intelligence
 ```
 
+Output Screenshot:
+<img width="1831" height="1028" alt="image" src="https://github.com/user-attachments/assets/4f53331f-f29a-4dab-bac2-a3699bcb6a0b" />
+
 ---
 
 ### 4.3 `get_vehicle_service_history(vin, limit=10)`
@@ -153,6 +157,9 @@ Primary Databricks views:
 main.aftermarket_agent_poc.vw_vehicle_service_history_summary
 main.aftermarket_agent_poc.vw_service_repair_order_intelligence
 ```
+Output Screenshot:
+<img width="1827" height="1023" alt="image" src="https://github.com/user-attachments/assets/90727d05-b2a7-4ebc-9d1f-1febe0c7fe24" />
+
 
 ---
 
@@ -186,6 +193,8 @@ Primary Databricks view:
 ```text
 main.aftermarket_agent_poc.vw_parts_availability_intelligence
 ```
+Output Screenshot:
+<img width="1833" height="1025" alt="image" src="https://github.com/user-attachments/assets/0bdd6d17-e391-48b5-88bd-5aa16ae82d00" />
 
 ---
 
@@ -228,6 +237,10 @@ main.aftermarket_agent_poc.vw_warranty_performance_summary
 main.aftermarket_agent_poc.vw_bonus_eligibility_intelligence
 main.aftermarket_agent_poc.vw_sales_market_partgroup_trend
 ```
+
+Output Screenshot
+<img width="1817" height="1023" alt="image" src="https://github.com/user-attachments/assets/2a0073c4-f974-47a6-9ad5-3d831aa38932" />
+
 
 ---
 
